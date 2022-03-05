@@ -1,0 +1,29 @@
+body {
+    background-image: url('/assets/back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+fieldset {
+    margin: 100px 50px;
+    width: 500px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+#inp {
+    padding-top: 20px;
+}
+#inpVector {
+    margin: auto;
+}
+#res {
+    margin-top: 20px;
+}
+input {
+    width: 30px;
+}
+#gif {
+    position: fixed;
+    margin-left: 57vw;
+    margin-top: 5vh;
+}
